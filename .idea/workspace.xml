@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d866afd7-7fb2-4b72-a035-4b3e7d1474c5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/FullEntry.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/JsonParser.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Name.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/input-directory/input.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/output-directory/input.json" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JsonParser.java" afterPath="$PROJECT_DIR$/src/main/java/JsonParser.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,12 +13,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="JsonParser.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="JsonParser.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/JsonParser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-              <folding />
+            <state relative-caret-position="330">
+              <caret line="22" column="41" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -52,7 +48,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FullEntry.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FullEntry.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/FullEntry.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -98,6 +94,7 @@
         <option value="$PROJECT_DIR$/.idea/input-directory/input.csv" />
         <option value="$PROJECT_DIR$/src/main/java/Name.java" />
         <option value="$PROJECT_DIR$/src/main/java/FullEntry.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JsonParser.java" />
       </list>
     </option>
   </component>
@@ -319,12 +316,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525709871861</updated>
-      <workItem from="1525709875787" duration="1935000" />
+      <workItem from="1525709875787" duration="3035000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1935000" />
+    <option name="totallyTimeSpent" value="3035000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -385,14 +382,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JsonParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Name.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -431,6 +420,16 @@
             <element signature="e#556#557#0" expanded="true" />
             <element signature="e#598#599#0" expanded="true" />
             <element signature="e#632#633#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JsonParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="41" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
